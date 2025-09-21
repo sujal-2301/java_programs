@@ -1,1 +1,1 @@
-These are my solutions for the java problems on the exercism webiste
+These are my solutions for the java problems on the exercism website
